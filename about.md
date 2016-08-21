@@ -6,7 +6,7 @@ permalink: index.html
 
 ## About
 
-![DC](../img/Todd_headshot.jpg)
+![TZ](../img/Todd_headshot.jpg)
 
 
 Filler text
@@ -23,5 +23,5 @@ Menomonie, WI 54751\\
 
 ### On the web
 
--   Email: [<i class='fa fa-envelope'></i>](mailto:zimmermant@uwstout.edu)
+-   Email: [<i class='fa fa-envelope-o'></i>](mailto:zimmermant@uwstout.edu)
 -   GitHub: [<i class='fa fa-github'></i>](https://github.com/zimmermant)
