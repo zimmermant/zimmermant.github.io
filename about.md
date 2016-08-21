@@ -6,7 +6,7 @@ permalink: index.html
 
 ## About
 
-<img src="../img/Todd_Headshot.png.png" width="48">
+<img src="../img/Todd_Headshot.png" width="48">
 
 
 Filler text
