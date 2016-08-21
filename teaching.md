@@ -21,5 +21,5 @@ permalink: /teaching/
 
 <a name='recletter'></a>
 
-### Want a Recommendation Letter?
+If you want me to write a letter of recommendation for you, please [follow these instructions](recommendations.md)
 
