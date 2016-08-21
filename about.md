@@ -6,7 +6,7 @@ permalink: index.html
 
 ## About
 
-![TZ](../img/Todd_headshot.jpg)
+![TZ](../img/Todd_headshot.png)
 
 
 Filler text
