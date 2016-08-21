@@ -6,10 +6,10 @@ permalink: index.html
 
 ## About
 
-<img src="../img/Todd_Headshot.png" width="48">
+<img src="../img/Todd_Headshot.png" width="100">
 
 
-Filler text
+I am an associate professor at the University of Wisconsin - Stout.  My main interests are using photon/matter interactions to study the properties of systems.  I am also interested in incorporating computational activities into the physics curriculum.
 
 ## Contact Information
 
