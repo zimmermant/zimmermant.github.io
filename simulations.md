@@ -50,6 +50,10 @@ Interactive sandboxes I built for PHYS-291 Statics. Each one runs in your browse
 .sim-card h3 { margin: 0 0 6px; font-size: 18px; color: #2a7ae2; }
 .sim-card p { margin: 0; font-size: 14px; line-height: 1.4; color: #424242; }
 .sim-source { font-size: 13px; color: #828282; }
+/* A cell holding a card plus a quiet second link beneath it (a link cannot nest inside the card). */
+.sim-cell { display: flex; flex-direction: column; }
+.sim-cell .sim-card { flex: 1 1 auto; }
+.sim-alt { margin: 6px 2px 0; font-size: 13px; line-height: 1.35; color: #666; }
 </style>
 
 <div class="sim-grid">
@@ -93,6 +97,17 @@ Interactive sandboxes I built for PHYS-291 Statics. Each one runs in your browse
       <p>Adjust a rectangular and a triangular load and watch the equivalent forces and their locations change.</p>
     </div>
   </a>
+
+  <div class="sim-cell">
+    <a class="sim-card" href="https://zimmermant.github.io/beam-and-two-force-link/">
+      <img src="/img/simulations/beam-and-two-force-link.png" alt="Screenshot: a beam held by a pin at one end and a slanted two-force link at the other, with its free-body diagram, the beam drawn as a single point, and the three forces as a closed polygon" loading="lazy">
+      <div class="sim-body">
+        <h3>A Beam on a Pin and a Link</h3>
+        <p>Drag the load and watch the free-body diagram, the three lines of action meeting at a point, and the force polygon all follow.</p>
+      </div>
+    </a>
+    <p class="sim-alt"><a href="https://zimmermant.github.io/beam-and-two-force-link/dist/beam_link_fbd_display.html">Diagrams only</a> — the same four diagrams with no controls, for projecting.</p>
+  </div>
 
 </div>
 
