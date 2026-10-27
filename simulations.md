@@ -109,6 +109,14 @@ Interactive sandboxes I built for PHYS-291 Statics. Each one runs in your browse
     <p class="sim-alt"><a href="https://zimmermant.github.io/beam-and-two-force-link/dist/beam_link_fbd_display.html">Diagrams only</a> — the same four diagrams with no controls, for projecting.</p>
   </div>
 
+  <a class="sim-card" href="https://zimmermant.github.io/beam-on-roller-and-collar/">
+    <img src="/img/simulations/beam-on-roller-and-collar.png" alt="Screenshot: a beam on a roller at one end and a collar on a vertical shaft at the other, with an applied couple, shown as a free-body diagram, as a single point, and as a force polygon" loading="lazy">
+    <div class="sim-body">
+      <h3>A Beam on a Roller and a Collar</h3>
+      <p>Drag the load and turn the applied couple. The collar resists turning, so one of the three unknowns is a couple — and the force polygon closes without it.</p>
+    </div>
+  </a>
+
 </div>
 
 <p class="sim-source">Source code for each simulation is on my <a href="https://github.com/zimmermant?tab=repositories">GitHub</a> page, under an MIT license.</p>
